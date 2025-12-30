@@ -1,7 +1,5 @@
-## Hi there 👋
-
 # 💫 About Me:
-🛠️ I’m currently working on full‑stack web development with Laravel, React and Python.<br><br>🤝 I’m looking to collaborate on real‑world web apps, especially e‑commerce and dashboards.<br>​<br><br>🧠 I’m looking for help with advanced system design and interview preparation.<br>​<br><br>📚 I’m currently learning modern React, Laravel ecosystem and REST APIs.<br>​<br><br>💬 Ask me about web dev roadmaps, Laravel basics and UI/UX improvements.<br>​<br><br>⚡ Fun fact: I can spend hours just experimenting with colors and layouts.<br>​
+🛠️ I’m currently working on full‑stack web development with Laravel, React and Python.<br>🤝 I’m looking to collaborate on real‑world web apps, especially e‑commerce and dashboards.<br>🧠 I’m looking for help with advanced system design and interview preparation.<br>📚 I’m currently learning modern React, Laravel ecosystem and REST APIs.<br>💬 Ask me about web dev roadmaps, Laravel basics and UI/UX improvements.<br>​⚡ Fun fact: I can spend hours just experimenting with colors and layouts.<br>​
 
 
 # 💻 Tech Stack:
